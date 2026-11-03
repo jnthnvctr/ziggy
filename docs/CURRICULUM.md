@@ -31,12 +31,30 @@ notes: Fluency target. Include +0 and doubles; avoid repeating a fact within a t
 | `title`              | yes      | What a kid sees on the map. 48 characters max.                                                                                |
 | `prerequisites`      | no       | Skill ids that come first (omit or `[]` for none). They must exist and be the same grade or earlier. No loops.                |
 | `generator`          | yes      | camelCase name of the problem generator in `src/engine` (built in M2).                                                        |
-| `answer`             | yes      | `integer`, `decimal`, `fraction`, `mixed-number`, `comparison` or `choice`.                                                   |
+| `answer`             | yes      | `integer`, `decimal`, `fraction`, `mixed-number`, `comparison`, `choice` or `quotient-remainder`. See _Answer types_ below.   |
 | `fluency_target_sec` | yes      | Median seconds per problem that counts as fluent (0.5–120).                                                                   |
 | `test_length`        | yes      | Problems in a skill test (5–40).                                                                                              |
 | `notes`              | no       | Guidance for whoever writes the generator. Not shown to kids.                                                                 |
 
 Unknown fields are rejected, which catches typos like `fluency:`.
+
+## Answer types
+
+| Type                 | The kid enters                | Notes                                                                                   |
+| -------------------- | ----------------------------- | --------------------------------------------------------------------------------------- |
+| `integer`            | a whole number                |                                                                                         |
+| `decimal`            | a number with a decimal point |                                                                                         |
+| `fraction`           | a fraction                    | Opens the fraction keypad.                                                              |
+| `mixed-number`       | a whole number and a fraction | Opens the mixed-number keypad.                                                          |
+| `comparison`         | <, = or >                     | Grade 1 and up. Kindergarten uses `choice` with spoken words ("more", "fewer", "same"). |
+| `choice`             | taps one of a few options     | True/false and yes/no skills have a 50% guess rate, so use a test length of 20.         |
+| `quotient-remainder` | a quotient and a remainder    | 27 ÷ 4 = 6 R 3.                                                                         |
+
+`fraction` and `mixed-number` both accept any equivalent form (3/2, 6/4, 1 1/2); the type only picks which keypad opens first. If a skill needs one particular form, such as simplest form, say so in `notes` and the generator enforces it.
+
+## Shared generators
+
+Several skills can use one generator when only the speed bar changes. For example, `addWithin10` serves both _Add within 10_ (Kindergarten, 4 s) and _Add within 10 (fast)_ (grade 1, 2.5 s). When skills need different problem sets, give each its own generator.
 
 ## Granularity
 

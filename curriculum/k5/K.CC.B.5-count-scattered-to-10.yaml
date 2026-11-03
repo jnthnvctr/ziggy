@@ -1,0 +1,11 @@
+id: K.CC.B.5-count-scattered-to-10
+grade: K
+strand: CC
+standard: K.CC.B.5
+title: Count scattered things
+prerequisites: [K.CC.B.5-count-objects-to-10]
+generator: countScatteredTo10
+answer: integer
+fluency_target_sec: 7
+test_length: 10
+notes: Up to 10 objects placed randomly with no overlaps.

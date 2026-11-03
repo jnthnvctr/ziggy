@@ -1,0 +1,11 @@
+id: K.OA.A.2-story-problems-within-10
+grade: K
+strand: OA
+standard: K.OA.A.2
+title: Story problems within 10
+prerequisites: [K.OA.A.2-add-within-10, K.OA.A.2-subtract-within-10]
+generator: storyWithin10
+answer: integer
+fluency_target_sec: 30
+test_length: 8
+notes: Short add-to and take-from stories with read-aloud and a picture. Result unknown only at K.

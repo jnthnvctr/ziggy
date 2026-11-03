@@ -1,0 +1,11 @@
+id: K.CC.C.6-compare-groups-to-10
+grade: K
+strand: CC
+standard: K.CC.C.6
+title: 'Which group has more?'
+prerequisites: [K.CC.B.5-count-objects-to-10]
+generator: compareGroups
+answer: choice
+fluency_target_sec: 5
+test_length: 12
+notes: "Two groups up to 10; kid taps the group with more, or 'same' (spoken choices, no symbols). Don't let the bigger group always take up more space."

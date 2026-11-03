@@ -1,0 +1,11 @@
+id: K.CC.B.4c-one-more
+grade: K
+strand: CC
+standard: K.CC.B.4c
+title: One more
+prerequisites: [K.CC.B.5-count-objects-to-10]
+generator: oneMore
+answer: integer
+fluency_target_sec: 3
+test_length: 15
+notes: 'What is one more than 7? Within 10, with a picture early on.'

@@ -2,10 +2,10 @@ id: K.CC.A.1-count-by-ones-next
 grade: K
 strand: CC
 standard: K.CC.A.1
-title: What number comes next?
-prerequisites: []
-generator: countNext
+title: 'What comes next? (to 100)'
+prerequisites: [K.CC.A.2-count-on-within-20]
+generator: countNextTo100
 answer: integer
 fluency_target_sec: 4
 test_length: 15
-notes: Show 2-3 numbers in sequence within 100 and ask for the next one.
+notes: 'Show 2-3 numbers in sequence within 100 and ask for the next one; cross a ten often (38, 39, __).'

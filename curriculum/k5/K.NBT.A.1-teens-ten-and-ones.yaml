@@ -1,0 +1,11 @@
+id: K.NBT.A.1-teens-ten-and-ones
+grade: K
+strand: NBT
+standard: K.NBT.A.1
+title: 'Teen numbers: 10 and some more'
+prerequisites: [K.CC.B.5-count-objects-to-20, K.OA.A.4-make-ten]
+generator: teenDecompose
+answer: integer
+fluency_target_sec: 4
+test_length: 12
+notes: '14 = 10 + __ and 10 + 6 = __; show a full ten-frame plus extras early on.'

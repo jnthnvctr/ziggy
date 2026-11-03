@@ -23,6 +23,7 @@ export const ANSWER_TYPES = [
   'mixed-number',
   'comparison',
   'choice',
+  'quotient-remainder',
 ] as const;
 export type AnswerType = (typeof ANSWER_TYPES)[number];
 

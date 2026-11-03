@@ -1,0 +1,11 @@
+id: K.CC.A.1-count-by-tens
+grade: K
+strand: CC
+standard: K.CC.A.1
+title: Count by tens to 100
+prerequisites: [K.CC.A.2-count-on-within-20]
+generator: countByTens
+answer: integer
+fluency_target_sec: 4
+test_length: 10
+notes: 'Missing number in a run of tens (30, 40, __, 60).'
