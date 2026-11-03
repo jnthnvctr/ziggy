@@ -1,0 +1,11 @@
+id: 3.OA.C.7-multiply-0-1-2-5-10
+grade: 3
+strand: OA
+standard: 3.OA.C.7
+title: 'Times tables: 0, 1, 2, 5, 10'
+prerequisites: [3.OA.A.1-equal-groups, 2.NBT.A.2-skip-count]
+generator: multFamilyEasy
+answer: integer
+fluency_target_sec: 2.5
+test_length: 30
+notes: 'Both orders (5 × 7 and 7 × 5).'

@@ -1,0 +1,11 @@
+id: 3.OA.C.7-multiply-6-7
+grade: 3
+strand: OA
+standard: 3.OA.C.7
+title: 'Times tables: 6 and 7'
+prerequisites: [3.OA.C.7-multiply-3-4]
+generator: multFamily67
+answer: integer
+fluency_target_sec: 3
+test_length: 30
+notes: 'Both orders; factors 0-10.'

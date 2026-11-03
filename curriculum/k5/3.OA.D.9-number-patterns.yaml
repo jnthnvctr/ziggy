@@ -1,0 +1,11 @@
+id: 3.OA.D.9-number-patterns
+grade: 3
+strand: OA
+standard: 3.OA.D.9
+title: Number patterns
+prerequisites: [3.OA.C.7-multiply-0-1-2-5-10]
+generator: arithmeticPattern
+answer: integer
+fluency_target_sec: 8
+test_length: 12
+notes: Next or missing term in an add or multiply pattern.

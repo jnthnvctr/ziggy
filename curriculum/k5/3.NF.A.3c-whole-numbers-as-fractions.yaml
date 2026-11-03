@@ -1,0 +1,11 @@
+id: 3.NF.A.3c-whole-numbers-as-fractions
+grade: 3
+strand: NF
+standard: 3.NF.A.3c
+title: Whole numbers as fractions
+prerequisites: [3.NF.A.1-name-the-fraction]
+generator: wholeAsFraction
+answer: integer
+fluency_target_sec: 5
+test_length: 12
+notes: '3 = __/1, 1 = 4/__, 6/3 = __.'

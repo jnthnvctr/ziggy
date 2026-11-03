@@ -1,0 +1,11 @@
+id: 3.OA.C.7-divide-6-7
+grade: 3
+strand: OA
+standard: 3.OA.C.7
+title: 'Division facts: 6 and 7'
+prerequisites: [3.OA.C.7-multiply-6-7, 3.OA.C.7-divide-3-4]
+generator: divFamily67
+answer: integer
+fluency_target_sec: 3.5
+test_length: 30
+notes: Exact quotients 0-10.

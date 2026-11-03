@@ -1,0 +1,11 @@
+id: 3.NBT.A.2-subtract-within-1000-fluent
+grade: 3
+strand: NBT
+standard: 3.NBT.A.2
+title: Subtract within 1000 (fluent)
+prerequisites: [2.NBT.B.7-subtract-across-zeros]
+generator: sub3DigitAll
+answer: integer
+fluency_target_sec: 12
+test_length: 15
+notes: 'Mix of all grade 2 subtraction types, including across zeros; the bar is speed and accuracy.'

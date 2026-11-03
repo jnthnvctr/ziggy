@@ -1,0 +1,11 @@
+id: 3.OA.A.4-missing-factor
+grade: 3
+strand: OA
+standard: 3.OA.A.4
+title: 'Missing factor (__ × 6 = 42)'
+prerequisites: [3.OA.C.7-multiply-all]
+generator: missingFactor
+answer: integer
+fluency_target_sec: 5
+test_length: 20
+notes: 'Unknown in either factor position, and in division (42 ÷ __ = 6).'

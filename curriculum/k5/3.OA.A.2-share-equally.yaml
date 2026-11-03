@@ -1,0 +1,11 @@
+id: 3.OA.A.2-share-equally
+grade: 3
+strand: OA
+standard: 3.OA.A.2
+title: 'Share equally (12 ÷ 3)'
+prerequisites: [3.OA.C.7-multiply-0-1-2-5-10]
+generator: shareEqually
+answer: integer
+fluency_target_sec: 6
+test_length: 12
+notes: 'Pictures first; quotients ≤ 10.'

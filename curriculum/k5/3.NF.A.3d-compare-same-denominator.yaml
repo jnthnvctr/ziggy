@@ -1,0 +1,10 @@
+id: 3.NF.A.3d-compare-same-denominator
+grade: 3
+strand: NF
+standard: 3.NF.A.3d
+title: 'Compare fractions: same bottom'
+prerequisites: [3.NF.A.2-fractions-on-number-line]
+generator: compareSameDenom
+answer: comparison
+fluency_target_sec: 4
+test_length: 15
