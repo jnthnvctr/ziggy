@@ -7,5 +7,6 @@ describe('App', () => {
     render(<App />);
     expect(screen.getByRole('heading', { name: 'Ziggy' })).toBeTruthy();
     expect(screen.getAllByRole('listitem')).toHaveLength(6);
+    expect(screen.getByText(/^[1-9]\d* skills$/)).toBeTruthy();
   });
 });

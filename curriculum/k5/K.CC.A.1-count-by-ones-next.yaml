@@ -1,0 +1,11 @@
+id: K.CC.A.1-count-by-ones-next
+grade: K
+strand: CC
+standard: K.CC.A.1
+title: What number comes next?
+prerequisites: []
+generator: countNext
+answer: integer
+fluency_target_sec: 4
+test_length: 15
+notes: Show 2-3 numbers in sequence within 100 and ask for the next one.
