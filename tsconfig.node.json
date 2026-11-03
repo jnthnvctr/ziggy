@@ -12,5 +12,5 @@
     "noEmit": true,
     "noUncheckedIndexedAccess": true
   },
-  "include": ["vite.config.ts", "tooling"]
+  "include": ["vite.config.ts", "tooling", "src/curriculum/virtual.d.ts"]
 }
