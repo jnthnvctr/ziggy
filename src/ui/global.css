@@ -1,0 +1,36 @@
+:root {
+  --ink: #1d1b4b;
+  --ink-soft: #4b4880;
+  --paper: #fffaf0;
+  --sun: #ffb703;
+  --sky: #8ecae6;
+  --berry: #fb5607;
+  --card: #ffffff;
+  --radius: 20px;
+  --font: ui-rounded, 'SF Pro Rounded', 'Nunito', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  color-scheme: light;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font);
+  -webkit-font-smoothing: antialiased;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
