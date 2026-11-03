@@ -1,0 +1,11 @@
+id: 4.OA.C.5-patterns-with-a-rule
+grade: 4
+strand: OA
+standard: 4.OA.C.5
+title: Patterns with a rule
+prerequisites: [3.OA.D.9-number-patterns]
+generator: rulePattern
+answer: integer
+fluency_target_sec: 10
+test_length: 10
+notes: Given a rule and start (add 3, start at 1), find a term.

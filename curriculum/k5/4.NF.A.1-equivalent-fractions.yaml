@@ -1,0 +1,11 @@
+id: 4.NF.A.1-equivalent-fractions
+grade: 4
+strand: NF
+standard: 4.NF.A.1
+title: 'Equivalent fractions (3/4 = __/12)'
+prerequisites: [3.NF.A.3b-equivalent-fractions, 3.OA.C.7-multiply-all]
+generator: equivalentFractions
+answer: integer
+fluency_target_sec: 7
+test_length: 15
+notes: 'Grade 4 denominators only: 2, 3, 4, 5, 6, 8, 10, 12 and 100. Both directions (10/12 = 5/__).'

@@ -1,0 +1,11 @@
+id: 4.NBT.B.5-multiply-multidigit-by-1digit
+grade: 4
+strand: NBT
+standard: 4.NBT.B.5
+title: Multiply up to 4-digit by 1-digit
+prerequisites: [4.NBT.B.5-multiply-2digit-by-1digit]
+generator: mult4x1
+answer: integer
+fluency_target_sec: 25
+test_length: 10
+notes: '3- and 4-digit times 1-digit; regrouping in most places; include a zero digit (4,056 × 7).'

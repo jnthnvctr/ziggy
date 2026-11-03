@@ -1,0 +1,11 @@
+id: 4.NBT.B.4-add-multidigit
+grade: 4
+strand: NBT
+standard: 4.NBT.B.4
+title: Add multi-digit numbers
+prerequisites: [3.NBT.A.2-add-within-1000-fluent]
+generator: addMultiDigit
+answer: integer
+fluency_target_sec: 20
+test_length: 10
+notes: 'Up to 6 digits; standard algorithm, vertical format.'

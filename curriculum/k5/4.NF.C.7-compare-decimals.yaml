@@ -1,0 +1,11 @@
+id: 4.NF.C.7-compare-decimals
+grade: 4
+strand: NF
+standard: 4.NF.C.7
+title: Compare decimals
+prerequisites: [4.NF.C.6-fractions-to-decimals]
+generator: compareDecimals
+answer: comparison
+fluency_target_sec: 5
+test_length: 15
+notes: 'To hundredths; include 0.5 vs 0.45 traps.'

@@ -1,0 +1,11 @@
+id: 4.NBT.B.5-multiply-by-multiples-of-10
+grade: 4
+strand: NBT
+standard: 4.NBT.B.5
+title: 'Multiply with tens and hundreds (3 × 400)'
+prerequisites: [3.NBT.A.3-multiply-by-tens]
+generator: multPowersOf10
+answer: integer
+fluency_target_sec: 5
+test_length: 15
+notes: '1-digit times a multiple of 10, 100 or 1000 (7 × 3000), or two multiples of 10 (30 × 40).'

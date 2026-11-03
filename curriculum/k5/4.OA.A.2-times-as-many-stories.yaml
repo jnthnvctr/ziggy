@@ -1,0 +1,11 @@
+id: 4.OA.A.2-times-as-many-stories
+grade: 4
+strand: OA
+standard: 4.OA.A.2
+title: Times as many stories
+prerequisites: [4.OA.A.1-times-as-many, 3.OA.A.3-times-and-divide-stories]
+generator: storyMultiplicativeCompare
+answer: integer
+fluency_target_sec: 40
+test_length: 8
+notes: Include the division direction (the tree is 8 times as tall as the bush). Read-aloud on.

@@ -1,0 +1,11 @@
+id: 4.NF.B.3a-subtract-like-denominators
+grade: 4
+strand: NF
+standard: 4.NF.B.3a
+title: 'Subtract fractions: same bottom'
+prerequisites: [4.NF.B.3a-add-like-denominators]
+generator: subLikeDenoms
+answer: fraction
+fluency_target_sec: 7
+test_length: 15
+notes: Accept any equivalent answer.

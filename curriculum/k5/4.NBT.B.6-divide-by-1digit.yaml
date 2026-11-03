@@ -1,0 +1,11 @@
+id: 4.NBT.B.6-divide-by-1digit
+grade: 4
+strand: NBT
+standard: 4.NBT.B.6
+title: Divide by a 1-digit number
+prerequisites: [3.OA.C.7-divide-all, 4.NBT.B.5-multiply-2digit-by-1digit]
+generator: divBy1Digit
+answer: integer
+fluency_target_sec: 30
+test_length: 8
+notes: 'Up to 4-digit dividends; exact quotients.'

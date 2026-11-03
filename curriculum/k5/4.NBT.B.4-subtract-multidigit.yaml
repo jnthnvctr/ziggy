@@ -1,0 +1,11 @@
+id: 4.NBT.B.4-subtract-multidigit
+grade: 4
+strand: NBT
+standard: 4.NBT.B.4
+title: Subtract multi-digit numbers
+prerequisites: [3.NBT.A.2-subtract-within-1000-fluent]
+generator: subMultiDigit
+answer: integer
+fluency_target_sec: 25
+test_length: 10
+notes: 'Up to 6 digits; include regrouping across zeros.'

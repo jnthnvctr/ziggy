@@ -1,0 +1,11 @@
+id: 4.NBT.B.6-divide-with-remainders
+grade: 4
+strand: NBT
+standard: 4.NBT.B.6
+title: Divide with remainders
+prerequisites: [4.NBT.B.6-divide-by-1digit]
+generator: divBy1DigitRemainder
+answer: quotient-remainder
+fluency_target_sec: 35
+test_length: 8
+notes: 'Answer as quotient and remainder (27 ÷ 4 = 6 R 3).'

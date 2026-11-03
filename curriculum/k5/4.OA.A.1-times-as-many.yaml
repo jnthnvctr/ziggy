@@ -1,0 +1,11 @@
+id: 4.OA.A.1-times-as-many
+grade: 4
+strand: OA
+standard: 4.OA.A.1
+title: Times as many
+prerequisites: [3.OA.C.7-multiply-all]
+generator: multiplicativeCompare
+answer: integer
+fluency_target_sec: 20
+test_length: 10
+notes: 'One short sentence, no story: 35 is 5 times as many as __.'

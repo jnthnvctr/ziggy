@@ -1,0 +1,11 @@
+id: 4.NF.B.3c-add-subtract-mixed-numbers
+grade: 4
+strand: NF
+standard: 4.NF.B.3c
+title: Add and subtract mixed numbers
+prerequisites: [4.NF.B.3c-mixed-and-improper, 4.NF.B.3a-subtract-like-denominators]
+generator: addSubMixedLike
+answer: mixed-number
+fluency_target_sec: 25
+test_length: 10
+notes: 'Same denominators; include regrouping (3 1/4 − 1 3/4).'

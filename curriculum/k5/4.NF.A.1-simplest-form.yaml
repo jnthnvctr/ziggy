@@ -1,0 +1,11 @@
+id: 4.NF.A.1-simplest-form
+grade: 4
+strand: NF
+standard: 4.NF.A.1
+title: Simplest form
+prerequisites: [4.NF.A.1-equivalent-fractions, 4.OA.B.4-factor-or-not]
+generator: simplifyFraction
+answer: fraction
+fluency_target_sec: 8
+test_length: 15
+notes: 'Extension beyond the standard: nothing depends on it. The answer must be in simplest form.'

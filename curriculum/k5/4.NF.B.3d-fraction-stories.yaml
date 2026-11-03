@@ -1,0 +1,11 @@
+id: 4.NF.B.3d-fraction-stories
+grade: 4
+strand: NF
+standard: 4.NF.B.3d
+title: 'Fraction stories: same bottom'
+prerequisites: [4.NF.B.3c-add-subtract-mixed-numbers]
+generator: storyFractionsLike
+answer: fraction
+fluency_target_sec: 60
+test_length: 6
+notes: Add and subtract fractions and mixed numbers with like denominators. Read-aloud on.

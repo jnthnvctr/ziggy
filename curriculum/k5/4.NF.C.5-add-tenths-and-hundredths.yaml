@@ -1,0 +1,11 @@
+id: 4.NF.C.5-add-tenths-and-hundredths
+grade: 4
+strand: NF
+standard: 4.NF.C.5
+title: Add tenths and hundredths
+prerequisites: [4.NF.C.5-tenths-to-hundredths]
+generator: addTenthsHundredths
+answer: fraction
+fluency_target_sec: 12
+test_length: 12
+notes: '3/10 + 4/100 = 34/100; accept any equivalent answer.'

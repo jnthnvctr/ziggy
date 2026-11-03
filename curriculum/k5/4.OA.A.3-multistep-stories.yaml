@@ -1,0 +1,12 @@
+id: 4.OA.A.3-multistep-stories
+grade: 4
+strand: OA
+standard: 4.OA.A.3
+title: Multi-step stories
+prerequisites:
+  [3.OA.D.8-two-step-stories, 4.OA.A.2-times-as-many-stories, 4.NBT.B.6-divide-with-remainders]
+generator: storyMultiStep
+answer: integer
+fluency_target_sec: 120
+test_length: 6
+notes: 'Include interpreting a remainder (how many buses are needed?).'

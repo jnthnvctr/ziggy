@@ -1,0 +1,11 @@
+id: 4.NF.B.4c-fraction-times-whole-stories
+grade: 4
+strand: NF
+standard: 4.NF.B.4c
+title: Fraction times whole stories
+prerequisites: [4.NF.B.4-fraction-times-whole]
+generator: storyFractionTimesWhole
+answer: fraction
+fluency_target_sec: 60
+test_length: 6
+notes: 'Each of 5 friends eats 3/8 of a pizza; how much in all? Read-aloud on.'

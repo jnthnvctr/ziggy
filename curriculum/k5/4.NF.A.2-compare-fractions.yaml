@@ -1,0 +1,11 @@
+id: 4.NF.A.2-compare-fractions
+grade: 4
+strand: NF
+standard: 4.NF.A.2
+title: Compare any two fractions
+prerequisites: [4.NF.A.1-equivalent-fractions, 3.NF.A.3d-compare-same-numerator]
+generator: compareFractions
+answer: comparison
+fluency_target_sec: 10
+test_length: 15
+notes: 'Different tops and bottoms; include pairs that compare against 1/2.'
