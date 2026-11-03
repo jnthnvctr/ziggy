@@ -1,0 +1,11 @@
+id: 5.NBT.B.6-divide-by-2digit
+grade: 5
+strand: NBT
+standard: 5.NBT.B.6
+title: Divide by a 2-digit number
+prerequisites: [4.NBT.B.6-divide-with-remainders, 4.NBT.B.5-multiply-2digit-by-2digit]
+generator: divBy2Digit
+answer: quotient-remainder
+fluency_target_sec: 75
+test_length: 6
+notes: 'Up to 4-digit dividends; about half with remainders.'

@@ -1,0 +1,11 @@
+id: 5.NBT.A.1-place-value-ten-times
+grade: 5
+strand: NBT
+standard: 5.NBT.A.1
+title: Ten times bigger, ten times smaller
+prerequisites: [4.NBT.A.1-value-of-a-digit, 4.NF.C.6-fractions-to-decimals]
+generator: placeValueTenTimes
+answer: decimal
+fluency_target_sec: 10
+test_length: 12
+notes: 'The 4 in 0.4 is __ times the 4 in 0.04; what is 1/10 of 300?'

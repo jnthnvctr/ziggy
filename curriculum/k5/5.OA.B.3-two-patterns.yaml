@@ -1,0 +1,11 @@
+id: 5.OA.B.3-two-patterns
+grade: 5
+strand: OA
+standard: 5.OA.B.3
+title: Two patterns side by side
+prerequisites: [4.OA.C.5-patterns-with-a-rule]
+generator: twoPatterns
+answer: integer
+fluency_target_sec: 15
+test_length: 8
+notes: 'Two rules from 0 (add 3, add 6): find a missing term, or how the terms relate (always twice as big).'

@@ -1,0 +1,11 @@
+id: 5.NF.A.1-add-unlike-denominators
+grade: 5
+strand: NF
+standard: 5.NF.A.1
+title: 'Add fractions: different bottoms'
+prerequisites: [4.NF.A.1-equivalent-fractions, 4.NF.B.3a-add-like-denominators, 4.OA.B.4-multiples]
+generator: addUnlikeDenoms
+answer: fraction
+fluency_target_sec: 25
+test_length: 12
+notes: Accept any equivalent answer.

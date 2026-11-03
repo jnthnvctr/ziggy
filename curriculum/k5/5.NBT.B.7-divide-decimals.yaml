@@ -1,0 +1,11 @@
+id: 5.NBT.B.7-divide-decimals
+grade: 5
+strand: NBT
+standard: 5.NBT.B.7
+title: Divide decimals
+prerequisites: [5.NBT.B.7-multiply-decimals, 4.NBT.B.6-divide-by-1digit]
+generator: divDecimals
+answer: decimal
+fluency_target_sec: 40
+test_length: 8
+notes: 'Results to hundredths; divisors are whole numbers or tenths.'

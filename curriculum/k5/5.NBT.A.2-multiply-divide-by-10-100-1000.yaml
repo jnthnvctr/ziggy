@@ -1,0 +1,11 @@
+id: 5.NBT.A.2-multiply-divide-by-10-100-1000
+grade: 5
+strand: NBT
+standard: 5.NBT.A.2
+title: Multiply and divide by 10, 100, 1000
+prerequisites: [5.NBT.A.1-place-value-ten-times, 4.NBT.B.5-multiply-by-multiples-of-10]
+generator: scaleByPowersOf10
+answer: decimal
+fluency_target_sec: 6
+test_length: 15
+notes: 'Whole numbers and decimals: 3.7 × 100, 52 ÷ 1000.'

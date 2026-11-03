@@ -1,0 +1,11 @@
+id: 5.NF.A.1-subtract-unlike-denominators
+grade: 5
+strand: NF
+standard: 5.NF.A.1
+title: 'Subtract fractions: different bottoms'
+prerequisites: [5.NF.A.1-add-unlike-denominators, 4.NF.B.3a-subtract-like-denominators]
+generator: subUnlikeDenoms
+answer: fraction
+fluency_target_sec: 25
+test_length: 12
+notes: Accept any equivalent answer.

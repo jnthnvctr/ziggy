@@ -1,0 +1,11 @@
+id: 5.NBT.A.4-round-decimals
+grade: 5
+strand: NBT
+standard: 5.NBT.A.4
+title: Round decimals
+prerequisites: [4.NBT.A.3-round-any-place, 5.NBT.A.3-compare-decimals-thousandths]
+generator: roundDecimals
+answer: decimal
+fluency_target_sec: 7
+test_length: 15
+notes: Round to a whole, tenths or hundredths.

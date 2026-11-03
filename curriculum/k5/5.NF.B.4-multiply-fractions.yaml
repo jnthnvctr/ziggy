@@ -1,0 +1,11 @@
+id: 5.NF.B.4-multiply-fractions
+grade: 5
+strand: NF
+standard: 5.NF.B.4
+title: Multiply fractions
+prerequisites: [4.NF.B.4-fraction-times-whole, 4.NF.A.1-equivalent-fractions]
+generator: multFractions
+answer: fraction
+fluency_target_sec: 15
+test_length: 12
+notes: Accept any equivalent answer.

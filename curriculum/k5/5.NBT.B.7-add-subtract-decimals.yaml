@@ -1,0 +1,12 @@
+id: 5.NBT.B.7-add-subtract-decimals
+grade: 5
+strand: NBT
+standard: 5.NBT.B.7
+title: Add and subtract decimals
+prerequisites:
+  [4.NBT.B.4-add-multidigit, 4.NBT.B.4-subtract-multidigit, 4.NF.C.6-fractions-to-decimals]
+generator: addSubDecimals
+answer: decimal
+fluency_target_sec: 15
+test_length: 12
+notes: 'To hundredths, with different numbers of places (4.5 + 0.37).'

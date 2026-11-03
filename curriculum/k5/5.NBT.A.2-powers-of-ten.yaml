@@ -1,0 +1,11 @@
+id: 5.NBT.A.2-powers-of-ten
+grade: 5
+strand: NBT
+standard: 5.NBT.A.2
+title: 'Powers of 10 (10³)'
+prerequisites: [4.NBT.B.5-multiply-by-multiples-of-10]
+generator: powersOfTen
+answer: integer
+fluency_target_sec: 5
+test_length: 12
+notes: '10³ = __ and 4 × 10² = __. Render exponents as superscripts.'
