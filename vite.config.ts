@@ -32,7 +32,11 @@ const cspPlugin: Plugin = {
 export default defineConfig({
   base: process.env.VITE_BASE ?? '/ziggy/',
   plugins: [react(), curriculumPlugin(), cspPlugin],
-  build: { sourcemap: true },
+  build: {
+    sourcemap: true,
+    // preview.html: problem preview for checking generators (also published).
+    rollupOptions: { input: { main: 'index.html', preview: 'preview.html' } },
+  },
   test: {
     environment: 'jsdom',
     include: ['src/**/*.test.{ts,tsx}', 'tooling/**/*.test.ts'],

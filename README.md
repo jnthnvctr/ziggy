@@ -2,7 +2,7 @@
 
 A free, open-source K–5 math diagnostic: short, timed, auto-generated tests that measure accuracy _and_ fluency, and a map that makes kids want to climb to the next rung.
 
-**Live:** https://jnthnvctr.github.io/ziggy/
+**Live:** https://jnthnvctr.github.io/ziggy/ · **Problem preview:** https://jnthnvctr.github.io/ziggy/preview.html (try any skill's generated problems)
 
 - **Plan:** [docs/PLAN.md](docs/PLAN.md)
 - **Privacy:** we collect nothing. No accounts, no analytics, no server — progress stays in the browser.
