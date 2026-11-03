@@ -1,0 +1,11 @@
+id: K.CC.B.5-count-objects-to-10
+grade: K
+strand: CC
+standard: K.CC.B.5
+title: Count up to 10 things
+prerequisites: []
+generator: countObjects
+answer: integer
+fluency_target_sec: 5
+test_length: 10
+notes: Objects in a line, array or circle; scattered layouts come in a later skill.

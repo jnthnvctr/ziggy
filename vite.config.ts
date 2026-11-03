@@ -1,6 +1,7 @@
 /// <reference types="vitest/config" />
 import { defineConfig, type Plugin } from 'vite';
 import react from '@vitejs/plugin-react';
+import { curriculumPlugin } from './tooling/curriculum/plugin';
 
 // Strict Content-Security-Policy for production builds: everything from our own
 // origin, no outbound connections. Not applied in dev (Vite's HMR needs a websocket).
@@ -30,10 +31,10 @@ const cspPlugin: Plugin = {
 // Served from https://jnthnvctr.github.io/ziggy/ on GitHub Pages.
 export default defineConfig({
   base: process.env.VITE_BASE ?? '/ziggy/',
-  plugins: [react(), cspPlugin],
+  plugins: [react(), curriculumPlugin(), cspPlugin],
   build: { sourcemap: true },
   test: {
     environment: 'jsdom',
-    include: ['src/**/*.test.{ts,tsx}'],
+    include: ['src/**/*.test.{ts,tsx}', 'tooling/**/*.test.ts'],
   },
 });

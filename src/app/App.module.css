@@ -72,8 +72,18 @@
   font-weight: 800;
 }
 
+.gradeText {
+  display: flex;
+  flex-direction: column;
+}
+
 .gradeName {
   font-weight: 700;
+}
+
+.gradeCount {
+  font-size: 14px;
+  color: var(--ink-soft);
 }
 
 .note {

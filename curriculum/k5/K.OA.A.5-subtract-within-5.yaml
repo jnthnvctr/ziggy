@@ -1,0 +1,10 @@
+id: K.OA.A.5-subtract-within-5
+grade: K
+strand: OA
+standard: K.OA.A.5
+title: Subtract within 5
+prerequisites: [K.OA.A.5-add-within-5]
+generator: subWithin5
+answer: integer
+fluency_target_sec: 3
+test_length: 20

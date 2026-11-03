@@ -1,0 +1,11 @@
+id: K.OA.A.5-add-within-5
+grade: K
+strand: OA
+standard: K.OA.A.5
+title: Add within 5
+prerequisites: [K.CC.B.5-count-objects-to-10]
+generator: addWithin5
+answer: integer
+fluency_target_sec: 3
+test_length: 20
+notes: Fluency target. Include +0 and doubles; avoid repeating a fact within a test.

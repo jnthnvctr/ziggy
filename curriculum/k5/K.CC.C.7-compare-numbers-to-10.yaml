@@ -1,0 +1,10 @@
+id: K.CC.C.7-compare-numbers-to-10
+grade: K
+strand: CC
+standard: K.CC.C.7
+title: Compare numbers up to 10
+prerequisites: [K.CC.B.5-count-objects-to-10]
+generator: compareTo10
+answer: comparison
+fluency_target_sec: 4
+test_length: 15
