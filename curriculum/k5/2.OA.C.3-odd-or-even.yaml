@@ -1,0 +1,11 @@
+id: 2.OA.C.3-odd-or-even
+grade: 2
+strand: OA
+standard: 2.OA.C.3
+title: 'Odd or even?'
+prerequisites: [1.OA.C.6-add-doubles]
+generator: oddEven
+answer: choice
+fluency_target_sec: 3
+test_length: 20
+notes: Numbers to 20, shown as pairs of dots first, then numerals.

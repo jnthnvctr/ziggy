@@ -1,0 +1,11 @@
+id: 2.OA.B.2-addition-facts-to-20
+grade: 2
+strand: OA
+standard: 2.OA.B.2
+title: Addition facts to 20 (from memory)
+prerequisites: [1.OA.C.6-add-within-20]
+generator: addFactsTo20
+answer: integer
+fluency_target_sec: 2.5
+test_length: 30
+notes: "Two single-digit addends only (the standard's 'know from memory' set); the bar is recall speed."

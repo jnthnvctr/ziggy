@@ -1,0 +1,11 @@
+id: 2.NBT.A.4-compare-3digit
+grade: 2
+strand: NBT
+standard: 2.NBT.A.4
+title: Compare three-digit numbers
+prerequisites: [2.NBT.A.1-hundreds-tens-ones, 1.NBT.B.3-compare-2digit]
+generator: compare3Digit
+answer: comparison
+fluency_target_sec: 5
+test_length: 15
+notes: Include same hundreds (462 vs 426) and zeros (305 vs 350).

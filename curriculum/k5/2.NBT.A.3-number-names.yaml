@@ -1,0 +1,11 @@
+id: 2.NBT.A.3-number-names
+grade: 2
+strand: NBT
+standard: 2.NBT.A.3
+title: Number names (four hundred six)
+prerequisites: [2.NBT.A.1-hundreds-tens-ones]
+generator: numberNames3Digit
+answer: integer
+fluency_target_sec: 8
+test_length: 12
+notes: 'Read-aloud off: the kid reads the words and types the number. Include teens and zeros.'

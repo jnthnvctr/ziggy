@@ -1,0 +1,11 @@
+id: 2.NBT.B.7-subtract-across-zeros
+grade: 2
+strand: NBT
+standard: 2.NBT.B.7
+title: 'Subtract across zeros (400 − 163)'
+prerequisites: [2.NBT.B.7-subtract-3digit]
+generator: subAcrossZeros
+answer: integer
+fluency_target_sec: 20
+test_length: 10
+notes: Top number has a zero in tens or both tens and ones.

@@ -1,0 +1,11 @@
+id: 2.OA.B.2-subtraction-facts-to-20
+grade: 2
+strand: OA
+standard: 2.OA.B.2
+title: Subtraction facts to 20 (from memory)
+prerequisites: [1.OA.C.6-subtract-within-20, 2.OA.B.2-addition-facts-to-20]
+generator: subFactsTo20
+answer: integer
+fluency_target_sec: 2.5
+test_length: 30
+notes: 'Inverses of single-digit addition facts (15 − 7); the bar is recall speed.'

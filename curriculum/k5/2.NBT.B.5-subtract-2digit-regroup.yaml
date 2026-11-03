@@ -1,0 +1,11 @@
+id: 2.NBT.B.5-subtract-2digit-regroup
+grade: 2
+strand: NBT
+standard: 2.NBT.B.5
+title: 'Subtract 2-digit, break a ten (52 − 27)'
+prerequisites: [2.NBT.B.5-subtract-2digit-no-regroup, 2.OA.B.2-subtraction-facts-to-20]
+generator: sub2DigitRegroup
+answer: integer
+fluency_target_sec: 10
+test_length: 20
+notes: 'Top ones digit smaller than the bottom one (52 − 27).'

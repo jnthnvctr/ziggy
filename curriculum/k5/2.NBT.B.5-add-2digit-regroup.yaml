@@ -1,0 +1,11 @@
+id: 2.NBT.B.5-add-2digit-regroup
+grade: 2
+strand: NBT
+standard: 2.NBT.B.5
+title: 'Add 2-digit, make a ten (38 + 47)'
+prerequisites: [2.NBT.B.5-add-2digit-no-regroup, 1.NBT.C.4-add-1digit-regroup]
+generator: add2DigitRegroup
+answer: integer
+fluency_target_sec: 8
+test_length: 20
+notes: 'Ones digits sum ≥ 10; total ≤ 100.'
