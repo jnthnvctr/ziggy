@@ -9,8 +9,8 @@ import { add, rat } from './rational';
 import { createRng } from './rng';
 import type { Answer, Generator, Problem, Token } from './types';
 
-/** Grades whose generators are all written. Extend as M2 lands. */
-const GRADES_DONE = new Set(['K', '1']);
+/** Every grade's generators are written; a new skill without one fails here. */
+const GRADES_DONE = new Set(['K', '1', '2', '3', '4', '5']);
 const SAMPLES = 3000;
 
 const sample = (gen: Generator, seed: string, n = SAMPLES): Problem[] => {
