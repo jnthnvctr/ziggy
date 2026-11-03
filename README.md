@@ -16,5 +16,3 @@ scripts/bootstrap-github.sh OWNER/ziggy             # create labels, milestones,
 ```
 
 The backlog lives in [`scripts/backlog.sh`](scripts/backlog.sh); edit it before running if you want to change anything. Re-running is safe — existing issues are skipped.
-
-*Not affiliated with Kumon.*
