@@ -1,0 +1,11 @@
+id: 5.NF.B.7b-whole-divided-by-unit-fraction
+grade: 5
+strand: NF
+standard: 5.NF.B.7b
+title: Whole number divided by a unit fraction
+prerequisites: [5.NF.B.7a-unit-fraction-divided-by-whole]
+generator: wholeDivUnitFraction
+answer: integer
+fluency_target_sec: 10
+test_length: 12
+notes: '4 ÷ (1/3) = 12.'

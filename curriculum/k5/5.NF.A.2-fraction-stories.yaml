@@ -1,0 +1,11 @@
+id: 5.NF.A.2-fraction-stories
+grade: 5
+strand: NF
+standard: 5.NF.A.2
+title: Fraction stories (add and subtract)
+prerequisites: [5.NF.A.1-subtract-unlike-denominators]
+generator: storyFractionsAddSub
+answer: fraction
+fluency_target_sec: 90
+test_length: 6
+notes: Unlike denominators. Read-aloud on.

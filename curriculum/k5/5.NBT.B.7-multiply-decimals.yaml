@@ -1,0 +1,11 @@
+id: 5.NBT.B.7-multiply-decimals
+grade: 5
+strand: NBT
+standard: 5.NBT.B.7
+title: Multiply decimals
+prerequisites: [5.NBT.A.2-multiply-divide-by-10-100-1000, 4.NBT.B.5-multiply-2digit-by-2digit]
+generator: multDecimals
+answer: decimal
+fluency_target_sec: 25
+test_length: 10
+notes: Products to hundredths.

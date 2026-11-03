@@ -1,0 +1,11 @@
+id: 5.NF.B.6-multiply-mixed-numbers
+grade: 5
+strand: NF
+standard: 5.NF.B.6
+title: Multiply mixed numbers
+prerequisites: [5.NF.B.4-multiply-fractions, 4.NF.B.3c-mixed-and-improper]
+generator: multMixed
+answer: mixed-number
+fluency_target_sec: 40
+test_length: 8
+notes: 'One or both factors mixed numbers with denominators ≤ 12; accept improper or mixed answers.'

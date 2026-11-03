@@ -1,0 +1,11 @@
+id: 5.NBT.B.5-multiply-multidigit
+grade: 5
+strand: NBT
+standard: 5.NBT.B.5
+title: Multiply multi-digit numbers
+prerequisites: [4.NBT.B.5-multiply-2digit-by-2digit]
+generator: multMultiDigit
+answer: integer
+fluency_target_sec: 60
+test_length: 6
+notes: '3-digit and 4-digit by 2-digit; standard algorithm.'

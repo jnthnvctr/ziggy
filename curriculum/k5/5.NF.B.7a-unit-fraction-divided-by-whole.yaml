@@ -1,0 +1,11 @@
+id: 5.NF.B.7a-unit-fraction-divided-by-whole
+grade: 5
+strand: NF
+standard: 5.NF.B.7a
+title: Unit fraction divided by a whole
+prerequisites: [5.NF.B.4-multiply-fractions, 3.OA.C.7-divide-all]
+generator: unitFractionDivWhole
+answer: fraction
+fluency_target_sec: 10
+test_length: 12
+notes: '1/3 ÷ 4 = 1/12.'

@@ -1,0 +1,11 @@
+id: 5.OA.A.2-words-to-expressions
+grade: 5
+strand: OA
+standard: 5.OA.A.2
+title: Words to expressions
+prerequisites: [5.OA.A.1-order-of-operations]
+generator: wordsToExpression
+answer: choice
+fluency_target_sec: 12
+test_length: 10
+notes: '"Add 8 and 7, then multiply by 2" → pick 2 × (8 + 7).'

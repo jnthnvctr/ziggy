@@ -1,0 +1,11 @@
+id: 5.NBT.A.3a-decimals-expanded-form
+grade: 5
+strand: NBT
+standard: 5.NBT.A.3a
+title: Decimals in expanded form
+prerequisites: [5.NBT.A.1-place-value-ten-times]
+generator: decimalExpandedForm
+answer: decimal
+fluency_target_sec: 10
+test_length: 12
+notes: 'One blank: 3.507 = 3 + 0.5 + __. Also number names (three and five hundred seven thousandths).'

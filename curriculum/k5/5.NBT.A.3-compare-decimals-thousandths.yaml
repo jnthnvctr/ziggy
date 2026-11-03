@@ -1,0 +1,11 @@
+id: 5.NBT.A.3-compare-decimals-thousandths
+grade: 5
+strand: NBT
+standard: 5.NBT.A.3
+title: Compare decimals to thousandths
+prerequisites: [4.NF.C.7-compare-decimals]
+generator: compareDecimals3
+answer: comparison
+fluency_target_sec: 6
+test_length: 15
+notes: 'Different numbers of places (0.7 vs 0.698); include trailing zeros (0.50 vs 0.5).'

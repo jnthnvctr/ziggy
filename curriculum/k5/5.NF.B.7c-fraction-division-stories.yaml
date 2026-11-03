@@ -1,0 +1,11 @@
+id: 5.NF.B.7c-fraction-division-stories
+grade: 5
+strand: NF
+standard: 5.NF.B.7c
+title: Fraction division stories
+prerequisites: [5.NF.B.7b-whole-divided-by-unit-fraction]
+generator: storyFractionDivision
+answer: fraction
+fluency_target_sec: 75
+test_length: 6
+notes: 'How many 1/4-cup servings in 3 cups? Both directions. Read-aloud on.'

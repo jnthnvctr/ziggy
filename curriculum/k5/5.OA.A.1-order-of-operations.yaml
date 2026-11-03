@@ -1,0 +1,11 @@
+id: 5.OA.A.1-order-of-operations
+grade: 5
+strand: OA
+standard: 5.OA.A.1
+title: Order of operations
+prerequisites: [3.OA.C.7-multiply-all, 3.OA.C.7-divide-all]
+generator: orderOfOperations
+answer: integer
+fluency_target_sec: 15
+test_length: 12
+notes: 'Brackets first, then multiply and divide, then add and subtract; whole numbers only.'

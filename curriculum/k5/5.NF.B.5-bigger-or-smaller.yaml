@@ -1,0 +1,11 @@
+id: 5.NF.B.5-bigger-or-smaller
+grade: 5
+strand: NF
+standard: 5.NF.B.5
+title: 'Bigger or smaller?'
+prerequisites: [5.NF.B.4-multiply-fractions]
+generator: scalingJudgement
+answer: choice
+fluency_target_sec: 8
+test_length: 20
+notes: 'Without computing: is 5/4 × 12 more or less than 12? A flexibility item.'

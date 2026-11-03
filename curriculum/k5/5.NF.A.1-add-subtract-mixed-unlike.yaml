@@ -1,0 +1,11 @@
+id: 5.NF.A.1-add-subtract-mixed-unlike
+grade: 5
+strand: NF
+standard: 5.NF.A.1
+title: 'Mixed numbers: different bottoms'
+prerequisites: [5.NF.A.1-subtract-unlike-denominators, 4.NF.B.3c-add-subtract-mixed-numbers]
+generator: addSubMixedUnlike
+answer: mixed-number
+fluency_target_sec: 45
+test_length: 8
+notes: Include regrouping.
