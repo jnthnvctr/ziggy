@@ -1,0 +1,11 @@
+id: 1.NBT.C.4-add-1digit-regroup
+grade: 1
+strand: NBT
+standard: 1.NBT.C.4
+title: 'Add a 1-digit number, make a ten (37 + 5)'
+prerequisites: [1.NBT.C.4-add-1digit-no-regroup, 1.OA.C.6-add-make-ten]
+generator: add2Digit1DigitRegroup
+answer: integer
+fluency_target_sec: 6
+test_length: 15
+notes: 'Ones digits sum ≥ 10; total ≤ 100.'

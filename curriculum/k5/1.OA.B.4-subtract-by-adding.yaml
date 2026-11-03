@@ -1,0 +1,11 @@
+id: 1.OA.B.4-subtract-by-adding
+grade: 1
+strand: OA
+standard: 1.OA.B.4
+title: Subtract by thinking addition
+prerequisites: [1.OA.C.6-add-within-20]
+generator: subtractAsMissingAddend
+answer: integer
+fluency_target_sec: 5
+test_length: 15
+notes: '12 − 8 = __ shown with its partner fact 8 + __ = 12.'

@@ -1,0 +1,11 @@
+id: 1.OA.C.6-add-within-20
+grade: 1
+strand: OA
+standard: 1.OA.C.6
+title: Add within 20
+prerequisites: [1.OA.C.6-add-near-doubles, 1.OA.C.6-add-make-ten]
+generator: addWithin20
+answer: integer
+fluency_target_sec: 3.5
+test_length: 30
+notes: 'All single-digit pairs plus teen + single digit, sum ≤ 20.'

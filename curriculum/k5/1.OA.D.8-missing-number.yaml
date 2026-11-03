@@ -1,0 +1,11 @@
+id: 1.OA.D.8-missing-number
+grade: 1
+strand: OA
+standard: 1.OA.D.8
+title: Find the missing number
+prerequisites: [1.OA.C.6-add-within-20, 1.OA.C.6-subtract-within-20]
+generator: missingAddSub20
+answer: integer
+fluency_target_sec: 6
+test_length: 20
+notes: 'Unknown in any position: 8 + __ = 11, __ − 3 = 5, 12 = __ + 4.'

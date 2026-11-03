@@ -1,0 +1,11 @@
+id: 1.OA.A.1-stories-start-unknown
+grade: 1
+strand: OA
+standard: 1.OA.A.1
+title: Stories with a missing start
+prerequisites: [1.OA.A.1-story-problems-within-20, 1.OA.D.8-missing-number]
+generator: storyStartUnknown20
+answer: integer
+fluency_target_sec: 35
+test_length: 8
+notes: Some birds were on a branch, 5 more came, now there are 12. Read-aloud on.

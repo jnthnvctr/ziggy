@@ -1,0 +1,11 @@
+id: 1.NBT.C.6-subtract-tens
+grade: 1
+strand: NBT
+standard: 1.NBT.C.6
+title: 'Subtract tens (70 − 30)'
+prerequisites: [1.NBT.C.5-ten-more-ten-less]
+generator: subtractTens
+answer: integer
+fluency_target_sec: 4
+test_length: 15
+notes: 'Both numbers multiples of 10 from 10 to 90; result ≥ 0.'

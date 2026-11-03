@@ -1,0 +1,11 @@
+id: 1.OA.C.6-add-doubles
+grade: 1
+strand: OA
+standard: 1.OA.C.6
+title: 'Doubles (6 + 6)'
+prerequisites: [1.OA.C.6-add-within-10-fast]
+generator: addDoubles
+answer: integer
+fluency_target_sec: 2.5
+test_length: 20
+notes: 'Doubles from 1 + 1 to 10 + 10.'

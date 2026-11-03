@@ -1,0 +1,11 @@
+id: 1.OA.C.6-add-near-doubles
+grade: 1
+strand: OA
+standard: 1.OA.C.6
+title: 'Near doubles (6 + 7)'
+prerequisites: [1.OA.C.6-add-doubles]
+generator: addNearDoubles
+answer: integer
+fluency_target_sec: 3.5
+test_length: 20
+notes: 'Addends differ by 1; both orders.'

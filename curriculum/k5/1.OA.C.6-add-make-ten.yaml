@@ -1,0 +1,11 @@
+id: 1.OA.C.6-add-make-ten
+grade: 1
+strand: OA
+standard: 1.OA.C.6
+title: 'Add by making 10 (8 + 5)'
+prerequisites: [K.OA.A.4-make-ten, 1.OA.C.6-add-within-10-fast]
+generator: addBridgeTen
+answer: integer
+fluency_target_sec: 4
+test_length: 20
+notes: 'One addend is 7, 8 or 9; sum 11-18.'

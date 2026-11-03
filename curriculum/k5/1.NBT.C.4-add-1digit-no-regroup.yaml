@@ -1,0 +1,11 @@
+id: 1.NBT.C.4-add-1digit-no-regroup
+grade: 1
+strand: NBT
+standard: 1.NBT.C.4
+title: 'Add a 1-digit number (35 + 4)'
+prerequisites: [1.NBT.B.2-tens-and-ones, 1.OA.C.6-add-within-10-fast]
+generator: add2Digit1DigitNoRegroup
+answer: integer
+fluency_target_sec: 5
+test_length: 15
+notes: 'Ones digits sum ≤ 9.'

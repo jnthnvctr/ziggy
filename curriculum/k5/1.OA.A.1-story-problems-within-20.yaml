@@ -1,0 +1,11 @@
+id: 1.OA.A.1-story-problems-within-20
+grade: 1
+strand: OA
+standard: 1.OA.A.1
+title: Story problems within 20
+prerequisites: [K.OA.A.2-story-problems-within-10, 1.OA.C.6-subtract-within-10-fast]
+generator: storyWithin20
+answer: integer
+fluency_target_sec: 35
+test_length: 8
+notes: 'Add to, take from, put together, take apart; result or change unknown. Read-aloud on.'

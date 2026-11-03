@@ -1,0 +1,11 @@
+id: 1.OA.C.6-add-within-10-fast
+grade: 1
+strand: OA
+standard: 1.OA.C.6
+title: Add within 10 (fast)
+prerequisites: [K.OA.A.2-add-within-10]
+generator: addWithin10
+answer: integer
+fluency_target_sec: 2.5
+test_length: 30
+notes: 'Same problems as K.OA.A.2-add-within-10; the bar here is speed.'

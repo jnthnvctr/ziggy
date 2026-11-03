@@ -1,0 +1,11 @@
+id: 1.NBT.B.3-compare-2digit
+grade: 1
+strand: NBT
+standard: 1.NBT.B.3
+title: Compare two-digit numbers
+prerequisites: [1.NBT.B.2-tens-and-ones, K.CC.C.7-compare-numbers-to-10]
+generator: compare2Digit
+answer: comparison
+fluency_target_sec: 4
+test_length: 15
+notes: Include same-tens pairs (43 vs 47) and digit swaps (38 vs 83).
