@@ -11,6 +11,11 @@ updates:
     # Give new releases a week to be vetted (and pulled if malicious) before proposing them.
     cooldown:
       default-days: 7
+    ignore:
+      # TypeScript majors must wait until typescript-eslint supports them (see #58).
+      # Upgrade deliberately: bump typescript + typescript-eslint together.
+      - dependency-name: typescript
+        update-types: ['version-update:semver-major']
   - package-ecosystem: github-actions
     directory: /
     schedule:
