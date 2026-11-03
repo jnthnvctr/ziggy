@@ -2,6 +2,8 @@ import type { Generator } from '../types';
 import * as grade1 from './grade1';
 import * as grade2 from './grade2';
 import * as grade3 from './grade3';
+import * as grade4 from './grade4';
+import * as grade5 from './grade5';
 import * as kindergarten from './kindergarten';
 
 /**
@@ -13,6 +15,8 @@ export const GENERATORS: Readonly<Record<string, Generator>> = merge(
   grade1,
   grade2,
   grade3,
+  grade4,
+  grade5,
 );
 
 function merge(...modules: Record<string, Generator>[]): Record<string, Generator> {
