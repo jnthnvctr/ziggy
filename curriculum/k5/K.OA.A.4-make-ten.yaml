@@ -1,0 +1,11 @@
+id: K.OA.A.4-make-ten
+grade: K
+strand: OA
+standard: K.OA.A.4
+title: Make 10
+prerequisites: [K.OA.A.3-break-apart-to-10]
+generator: makeTen
+answer: integer
+fluency_target_sec: 3
+test_length: 15
+notes: '6 + __ = 10, with a ten-frame picture early on.'

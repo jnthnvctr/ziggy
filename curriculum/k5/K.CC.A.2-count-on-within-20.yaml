@@ -1,0 +1,11 @@
+id: K.CC.A.2-count-on-within-20
+grade: K
+strand: CC
+standard: K.CC.A.2
+title: Count on from a number
+prerequisites: [K.CC.A.3-numerals-11-to-20]
+generator: countOnTo20
+answer: integer
+fluency_target_sec: 4
+test_length: 15
+notes: 'Show a start number within 20 and the next two in order (13, 14, 15, __).'

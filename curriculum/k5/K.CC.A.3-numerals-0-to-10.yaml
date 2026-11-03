@@ -1,0 +1,11 @@
+id: K.CC.A.3-numerals-0-to-10
+grade: K
+strand: CC
+standard: K.CC.A.3
+title: Know numbers 0 to 10
+prerequisites: []
+generator: pickNumeralTo10
+answer: choice
+fluency_target_sec: 3
+test_length: 15
+notes: 'Read-aloud says a number; kid taps the matching numeral from 3-4 choices.'

@@ -3,8 +3,9 @@ grade: K
 strand: CC
 standard: K.CC.C.7
 title: Compare numbers up to 10
-prerequisites: [K.CC.B.5-count-objects-to-10]
+prerequisites: [K.CC.C.6-compare-groups-to-10, K.CC.A.3-numerals-0-to-10]
 generator: compareTo10
-answer: comparison
+answer: choice
 fluency_target_sec: 4
 test_length: 15
+notes: "Two numerals 1-10; tap the bigger one, or 'same'. The <, =, > symbols start in grade 1."

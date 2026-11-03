@@ -1,0 +1,11 @@
+id: K.OA.A.3-break-apart-to-10
+grade: K
+strand: OA
+standard: K.OA.A.3
+title: Break apart numbers to 10
+prerequisites: [K.OA.A.2-add-within-10]
+generator: decomposeTo10
+answer: integer
+fluency_target_sec: 5
+test_length: 15
+notes: '7 = 3 + __. Vary which part is missing; include 0.'

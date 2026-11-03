@@ -1,0 +1,11 @@
+id: K.CC.B.5-count-objects-to-20
+grade: K
+strand: CC
+standard: K.CC.B.5
+title: Count up to 20 things
+prerequisites: [K.CC.B.5-count-objects-to-10, K.CC.A.3-numerals-11-to-20]
+generator: countObjectsTo20
+answer: integer
+fluency_target_sec: 10
+test_length: 10
+notes: Line, array or circle layouts, 11-20 objects.
