@@ -1,0 +1,11 @@
+id: 2.NBT.A.2-skip-count
+grade: 2
+strand: NBT
+standard: 2.NBT.A.2
+title: Skip count by 5s, 10s and 100s
+prerequisites: [K.CC.A.1-count-by-tens, 2.NBT.A.1-hundreds-tens-ones]
+generator: skipCount
+answer: integer
+fluency_target_sec: 5
+test_length: 15
+notes: Missing number in a run, within 1000.

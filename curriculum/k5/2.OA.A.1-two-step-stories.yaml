@@ -1,0 +1,11 @@
+id: 2.OA.A.1-two-step-stories
+grade: 2
+strand: OA
+standard: 2.OA.A.1
+title: Two-step stories within 100
+prerequisites: [2.OA.A.1-one-step-stories]
+generator: storyTwoStep100
+answer: integer
+fluency_target_sec: 75
+test_length: 6
+notes: 'Add and/or subtract; every intermediate result within 100. Read-aloud on.'

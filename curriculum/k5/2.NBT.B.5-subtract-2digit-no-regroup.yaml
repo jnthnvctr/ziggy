@@ -1,0 +1,11 @@
+id: 2.NBT.B.5-subtract-2digit-no-regroup
+grade: 2
+strand: NBT
+standard: 2.NBT.B.5
+title: 'Subtract 2-digit numbers (68 − 25)'
+prerequisites: [1.NBT.C.6-subtract-tens, 1.OA.C.6-subtract-within-10-fast]
+generator: sub2Digit
+answer: integer
+fluency_target_sec: 6
+test_length: 20
+notes: 'Vertical format; no ones digit borrowing.'

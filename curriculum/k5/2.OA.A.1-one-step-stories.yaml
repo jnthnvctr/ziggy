@@ -1,0 +1,12 @@
+id: 2.OA.A.1-one-step-stories
+grade: 2
+strand: OA
+standard: 2.OA.A.1
+title: One-step stories within 100
+prerequisites:
+  [1.OA.A.1-compare-stories, 2.NBT.B.5-add-2digit-regroup, 2.NBT.B.5-subtract-2digit-regroup]
+generator: storyOneStep100
+answer: integer
+fluency_target_sec: 45
+test_length: 8
+notes: All problem types and unknown positions. Read-aloud on.

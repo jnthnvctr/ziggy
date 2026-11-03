@@ -1,0 +1,11 @@
+id: 2.NBT.A.1-hundreds-tens-ones
+grade: 2
+strand: NBT
+standard: 2.NBT.A.1
+title: Hundreds, tens and ones
+prerequisites: [1.NBT.B.2-tens-and-ones]
+generator: placeValue3Digit
+answer: integer
+fluency_target_sec: 5
+test_length: 15
+notes: Include zeros (406) and unusual forms (2 hundreds and 13 tens).

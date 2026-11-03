@@ -1,0 +1,11 @@
+id: 2.NBT.B.7-subtract-3digit
+grade: 2
+strand: NBT
+standard: 2.NBT.B.7
+title: Subtract within 1000
+prerequisites: [2.NBT.B.5-subtract-2digit-regroup, 2.NBT.A.3-expanded-form]
+generator: sub3Digit
+answer: integer
+fluency_target_sec: 18
+test_length: 12
+notes: "Regrouping in ones, tens or both; no zeros in the top number (that's the next skill)."

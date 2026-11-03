@@ -1,0 +1,11 @@
+id: 2.NBT.B.6-add-three-or-four-2digit
+grade: 2
+strand: NBT
+standard: 2.NBT.B.6
+title: Add three or four 2-digit numbers
+prerequisites: [2.NBT.B.5-add-2digit-regroup]
+generator: addMany2Digit
+answer: integer
+fluency_target_sec: 20
+test_length: 10
+notes: 'Vertical format; total < 400.'

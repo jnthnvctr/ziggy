@@ -1,0 +1,11 @@
+id: 2.OA.C.4-arrays
+grade: 2
+strand: OA
+standard: 2.OA.C.4
+title: Count arrays
+prerequisites: [1.OA.A.2-add-three-numbers]
+generator: arrayTotal
+answer: integer
+fluency_target_sec: 6
+test_length: 12
+notes: 'Up to 5 rows by 5 columns; answer the total.'

@@ -1,0 +1,11 @@
+id: 2.NBT.B.8-ten-or-hundred-more-less
+grade: 2
+strand: NBT
+standard: 2.NBT.B.8
+title: 10 or 100 more or less
+prerequisites: [1.NBT.C.5-ten-more-ten-less, 2.NBT.A.1-hundreds-tens-ones]
+generator: tenHundredMoreLess
+answer: integer
+fluency_target_sec: 5
+test_length: 15
+notes: 'Within 100-900; include crossing a hundred (195 + 10).'
