@@ -1,0 +1,11 @@
+id: 1.NBT.B.2-tens-and-ones
+grade: 1
+strand: NBT
+standard: 1.NBT.B.2
+title: Tens and ones
+prerequisites: [K.NBT.A.1-teens-ten-and-ones, K.CC.A.1-count-by-tens]
+generator: tensAndOnes
+answer: integer
+fluency_target_sec: 5
+test_length: 15
+notes: '47 = __ tens and 7 ones; base-ten blocks early on.'

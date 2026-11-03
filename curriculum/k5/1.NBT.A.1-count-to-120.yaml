@@ -1,0 +1,11 @@
+id: 1.NBT.A.1-count-to-120
+grade: 1
+strand: NBT
+standard: 1.NBT.A.1
+title: Counting to 120
+prerequisites: [K.CC.A.1-count-by-ones-next]
+generator: countNextTo120
+answer: integer
+fluency_target_sec: 4
+test_length: 15
+notes: 'Missing number in a run of 4; cross 100 sometimes.'

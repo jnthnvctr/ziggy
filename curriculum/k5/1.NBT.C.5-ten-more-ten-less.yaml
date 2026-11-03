@@ -1,0 +1,11 @@
+id: 1.NBT.C.5-ten-more-ten-less
+grade: 1
+strand: NBT
+standard: 1.NBT.C.5
+title: 10 more, 10 less
+prerequisites: [1.NBT.B.2-tens-and-ones]
+generator: tenMoreLess
+answer: integer
+fluency_target_sec: 4
+test_length: 15
+notes: Within 100, no counting needed.

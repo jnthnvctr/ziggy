@@ -1,0 +1,11 @@
+id: 1.OA.C.6-subtract-within-10-fast
+grade: 1
+strand: OA
+standard: 1.OA.C.6
+title: Subtract within 10 (fast)
+prerequisites: [K.OA.A.2-subtract-within-10]
+generator: subWithin10
+answer: integer
+fluency_target_sec: 3
+test_length: 30
+notes: 'Same problems as K.OA.A.2-subtract-within-10; the bar here is speed.'

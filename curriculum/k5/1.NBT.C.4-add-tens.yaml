@@ -1,0 +1,11 @@
+id: 1.NBT.C.4-add-tens
+grade: 1
+strand: NBT
+standard: 1.NBT.C.4
+title: 'Add tens (34 + 20)'
+prerequisites: [1.NBT.C.5-ten-more-ten-less]
+generator: addTensTo2Digit
+answer: integer
+fluency_target_sec: 5
+test_length: 15
+notes: 'Two-digit number plus a multiple of 10, sum ≤ 99.'

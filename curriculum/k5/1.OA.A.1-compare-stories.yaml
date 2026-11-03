@@ -1,0 +1,11 @@
+id: 1.OA.A.1-compare-stories
+grade: 1
+strand: OA
+standard: 1.OA.A.1
+title: 'How many more? stories'
+prerequisites: [1.OA.A.1-story-problems-within-20]
+generator: storyCompare20
+answer: integer
+fluency_target_sec: 35
+test_length: 8
+notes: 'Compare problems: how many more, how many fewer.'

@@ -1,0 +1,11 @@
+id: 1.OA.D.7-true-or-false-equations
+grade: 1
+strand: OA
+standard: 1.OA.D.7
+title: 'True or false? (5 = 4 + 1)'
+prerequisites: [1.OA.C.6-add-within-20]
+generator: equalSignTrueFalse
+answer: choice
+fluency_target_sec: 5
+test_length: 20
+notes: 'Include the answer on the left and expressions on both sides (4 + 1 = 5 + 0).'

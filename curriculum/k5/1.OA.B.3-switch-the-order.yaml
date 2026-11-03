@@ -1,0 +1,11 @@
+id: 1.OA.B.3-switch-the-order
+grade: 1
+strand: OA
+standard: 1.OA.B.3
+title: 'Switch the order (8 + 3 = 3 + __)'
+prerequisites: [1.OA.C.6-add-within-10-fast]
+generator: commutativeMissing
+answer: integer
+fluency_target_sec: 4
+test_length: 15
+notes: 'Also regrouping three addends: 4 + 6 + 3 = 10 + __.'
