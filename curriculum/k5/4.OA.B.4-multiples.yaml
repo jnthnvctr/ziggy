@@ -1,0 +1,11 @@
+id: 4.OA.B.4-multiples
+grade: 4
+strand: OA
+standard: 4.OA.B.4
+title: Multiples
+prerequisites: [3.OA.C.7-multiply-all]
+generator: isMultiple
+answer: choice
+fluency_target_sec: 5
+test_length: 15
+notes: 'Which of these is a multiple of 7?'

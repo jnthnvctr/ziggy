@@ -1,0 +1,11 @@
+id: 4.OA.B.4-prime-or-composite
+grade: 4
+strand: OA
+standard: 4.OA.B.4
+title: 'Prime or composite?'
+prerequisites: [4.OA.B.4-factor-or-not]
+generator: primeComposite
+answer: choice
+fluency_target_sec: 6
+test_length: 20
+notes: "Numbers 2-100; keep even numbers to a minority so parity isn't a shortcut."

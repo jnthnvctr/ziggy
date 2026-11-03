@@ -1,0 +1,11 @@
+id: 4.NBT.A.3-round-any-place
+grade: 4
+strand: NBT
+standard: 4.NBT.A.3
+title: Round to any place
+prerequisites: [3.NBT.A.1-round-to-100, 4.NBT.A.1-value-of-a-digit]
+generator: roundMultiDigit
+answer: integer
+fluency_target_sec: 7
+test_length: 15
+notes: Round to the nearest 10, 100, 1000, 10,000 or 100,000.

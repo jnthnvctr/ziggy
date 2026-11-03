@@ -1,0 +1,11 @@
+id: 4.NBT.A.2-compare-big-numbers
+grade: 4
+strand: NBT
+standard: 4.NBT.A.2
+title: Compare big numbers
+prerequisites: [4.NBT.A.1-value-of-a-digit, 2.NBT.A.4-compare-3digit]
+generator: compareMultiDigit
+answer: comparison
+fluency_target_sec: 5
+test_length: 15
+notes: 'Up to 1,000,000; include different lengths and near-matches.'

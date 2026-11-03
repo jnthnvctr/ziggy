@@ -1,0 +1,11 @@
+id: 4.NF.B.3a-add-like-denominators
+grade: 4
+strand: NF
+standard: 4.NF.B.3a
+title: 'Add fractions: same bottom'
+prerequisites: [3.NF.A.3d-compare-same-denominator]
+generator: addLikeDenoms
+answer: fraction
+fluency_target_sec: 7
+test_length: 15
+notes: 'Accept any equivalent answer; sums may exceed 1.'

@@ -1,0 +1,11 @@
+id: 4.NBT.A.1-value-of-a-digit
+grade: 4
+strand: NBT
+standard: 4.NBT.A.1
+title: Value of a digit
+prerequisites: [2.NBT.A.1-hundreds-tens-ones]
+generator: digitValue
+answer: integer
+fluency_target_sec: 5
+test_length: 15
+notes: 'Value of the 7 in 47,382; up to 1,000,000.'

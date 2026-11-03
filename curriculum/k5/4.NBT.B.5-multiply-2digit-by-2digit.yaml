@@ -1,0 +1,11 @@
+id: 4.NBT.B.5-multiply-2digit-by-2digit
+grade: 4
+strand: NBT
+standard: 4.NBT.B.5
+title: Multiply 2-digit by 2-digit
+prerequisites: [4.NBT.B.5-multiply-2digit-by-1digit, 4.NBT.B.5-multiply-by-multiples-of-10]
+generator: mult2x2
+answer: integer
+fluency_target_sec: 40
+test_length: 8
+notes: 'Both factors 11-99, avoid multiples of 10; area model or standard algorithm both fine.'

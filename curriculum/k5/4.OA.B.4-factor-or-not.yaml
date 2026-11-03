@@ -1,0 +1,11 @@
+id: 4.OA.B.4-factor-or-not
+grade: 4
+strand: OA
+standard: 4.OA.B.4
+title: 'Is it a factor?'
+prerequisites: [3.OA.C.7-divide-all]
+generator: isFactor
+answer: choice
+fluency_target_sec: 5
+test_length: 20
+notes: 'Is 6 a factor of 42? Numbers 1-100.'

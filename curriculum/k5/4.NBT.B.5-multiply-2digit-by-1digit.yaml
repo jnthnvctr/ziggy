@@ -1,0 +1,11 @@
+id: 4.NBT.B.5-multiply-2digit-by-1digit
+grade: 4
+strand: NBT
+standard: 4.NBT.B.5
+title: Multiply 2-digit by 1-digit
+prerequisites: [3.OA.C.7-multiply-all, 3.OA.B.5-break-apart-to-multiply]
+generator: mult2x1
+answer: integer
+fluency_target_sec: 12
+test_length: 12
+notes: 'Vertical format; most with regrouping.'

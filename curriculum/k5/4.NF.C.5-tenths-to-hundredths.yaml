@@ -1,0 +1,10 @@
+id: 4.NF.C.5-tenths-to-hundredths
+grade: 4
+strand: NF
+standard: 4.NF.C.5
+title: 'Tenths to hundredths (3/10 = __/100)'
+prerequisites: [4.NF.A.1-equivalent-fractions]
+generator: tenthsToHundredths
+answer: integer
+fluency_target_sec: 6
+test_length: 12

@@ -1,0 +1,11 @@
+id: 4.NF.B.3b-break-apart-fractions
+grade: 4
+strand: NF
+standard: 4.NF.B.3b
+title: 'Break apart fractions (3/8 = 1/8 + __/8)'
+prerequisites: [4.NF.B.3a-add-like-denominators]
+generator: decomposeFraction
+answer: integer
+fluency_target_sec: 8
+test_length: 12
+notes: 'Also mixed numbers: 2 1/8 = 1 + 1 + __/8.'

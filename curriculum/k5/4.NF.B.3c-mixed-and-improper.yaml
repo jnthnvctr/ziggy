@@ -1,0 +1,11 @@
+id: 4.NF.B.3c-mixed-and-improper
+grade: 4
+strand: NF
+standard: 4.NF.B.3c
+title: Mixed numbers and improper fractions
+prerequisites: [4.NF.B.3a-add-like-denominators, 3.NF.A.3c-whole-numbers-as-fractions]
+generator: mixedImproper
+answer: mixed-number
+fluency_target_sec: 10
+test_length: 15
+notes: 'Both directions (11/4 = 2 3/4 and 2 3/4 = 11/4); the expected form is the one asked for.'
