@@ -1,0 +1,11 @@
+id: 3.OA.C.7-divide-all
+grade: 3
+strand: OA
+standard: 3.OA.C.7
+title: All division facts
+prerequisites: [3.OA.C.7-multiply-all, 3.OA.C.7-divide-8-9]
+generator: divAllFacts
+answer: integer
+fluency_target_sec: 3
+test_length: 40
+notes: 'Dividend ≤ 100, divisor 1-10, no remainders. Include n ÷ 1 and n ÷ n.'

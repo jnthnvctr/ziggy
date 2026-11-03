@@ -1,0 +1,11 @@
+id: 3.OA.C.7-multiply-all
+grade: 3
+strand: OA
+standard: 3.OA.C.7
+title: All times tables
+prerequisites: [3.OA.C.7-multiply-8-9]
+generator: multAllFacts
+answer: integer
+fluency_target_sec: 2.5
+test_length: 40
+notes: 'Every product to 10 × 10, weighted toward 6-9.'

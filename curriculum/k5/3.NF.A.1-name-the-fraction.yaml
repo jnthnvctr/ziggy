@@ -1,0 +1,11 @@
+id: 3.NF.A.1-name-the-fraction
+grade: 3
+strand: NF
+standard: 3.NF.A.1
+title: Name the fraction
+prerequisites: []
+generator: nameFraction
+answer: fraction
+fluency_target_sec: 5
+test_length: 12
+notes: Shapes or bars split into 2, 3, 4, 6 or 8 equal parts, some shaded. Expect the form shown, not simplified.

@@ -1,0 +1,11 @@
+id: 3.NBT.A.2-add-within-1000-fluent
+grade: 3
+strand: NBT
+standard: 3.NBT.A.2
+title: Add within 1000 (fluent)
+prerequisites: [2.NBT.B.7-add-3digit]
+generator: add3Digit
+answer: integer
+fluency_target_sec: 10
+test_length: 15
+notes: 'Same problems as grade 2; the bar is speed and accuracy.'

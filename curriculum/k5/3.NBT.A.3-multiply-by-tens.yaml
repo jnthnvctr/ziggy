@@ -1,0 +1,11 @@
+id: 3.NBT.A.3-multiply-by-tens
+grade: 3
+strand: NBT
+standard: 3.NBT.A.3
+title: 'Multiply by tens (6 × 40)'
+prerequisites: [3.OA.C.7-multiply-all]
+generator: multByTens
+answer: integer
+fluency_target_sec: 4
+test_length: 20
+notes: One-digit number times 10-90.

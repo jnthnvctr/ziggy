@@ -1,0 +1,11 @@
+id: 3.OA.C.7-divide-8-9
+grade: 3
+strand: OA
+standard: 3.OA.C.7
+title: 'Division facts: 8 and 9'
+prerequisites: [3.OA.C.7-multiply-8-9, 3.OA.C.7-divide-6-7]
+generator: divFamily89
+answer: integer
+fluency_target_sec: 3.5
+test_length: 30
+notes: Exact quotients 0-10.

@@ -1,0 +1,11 @@
+id: 3.OA.A.3-times-and-divide-stories
+grade: 3
+strand: OA
+standard: 3.OA.A.3
+title: Times and divide stories
+prerequisites: [3.OA.A.1-equal-groups, 3.OA.A.2-share-equally, 3.OA.C.7-multiply-3-4]
+generator: storyMultDiv
+answer: integer
+fluency_target_sec: 40
+test_length: 8
+notes: 'Equal groups, arrays and measurement contexts; products within 100. Read-aloud on.'

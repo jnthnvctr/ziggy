@@ -1,0 +1,11 @@
+id: 3.OA.A.1-equal-groups
+grade: 3
+strand: OA
+standard: 3.OA.A.1
+title: Equal groups (3 groups of 4)
+prerequisites: [2.OA.C.4-arrays]
+generator: equalGroups
+answer: integer
+fluency_target_sec: 6
+test_length: 12
+notes: 'Pictures of equal groups and arrays; write the total. Bridges repeated addition to multiplication.'

@@ -1,0 +1,11 @@
+id: 3.NBT.A.1-round-to-10
+grade: 3
+strand: NBT
+standard: 3.NBT.A.1
+title: Round to the nearest 10
+prerequisites: [2.NBT.A.1-hundreds-tens-ones]
+generator: roundTo10
+answer: integer
+fluency_target_sec: 4
+test_length: 15
+notes: 'Two- and three-digit numbers; include ending in 5 (rounds up).'

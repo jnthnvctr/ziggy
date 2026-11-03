@@ -1,0 +1,11 @@
+id: 3.NBT.A.1-round-to-100
+grade: 3
+strand: NBT
+standard: 3.NBT.A.1
+title: Round to the nearest 100
+prerequisites: [3.NBT.A.1-round-to-10]
+generator: roundTo100
+answer: integer
+fluency_target_sec: 4
+test_length: 15
+notes: Include x50 cases and numbers under 100.

@@ -1,0 +1,11 @@
+id: 3.OA.D.8-two-step-stories
+grade: 3
+strand: OA
+standard: 3.OA.D.8
+title: 'Two-step stories with × and ÷'
+prerequisites: [3.OA.A.3-times-and-divide-stories, 2.OA.A.1-two-step-stories]
+generator: storyTwoStepFourOps
+answer: integer
+fluency_target_sec: 90
+test_length: 6
+notes: Any two of the four operations.
