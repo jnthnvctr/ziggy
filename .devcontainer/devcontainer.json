@@ -1,0 +1,35 @@
+{
+  // Isolated dev environment. Works in GitHub Codespaces (recommended: code runs
+  // on GitHub's VM, not your machine) or locally via Docker + the Dev Containers
+  // extension. See SECURITY.md.
+  "name": "ziggy",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:22-bookworm",
+  "remoteUser": "node",
+  "containerUser": "node",
+
+  // Local Docker hardening (ignored by Codespaces, which isolates at the VM level).
+  "runArgs": [
+    "--cap-drop=ALL",
+    "--security-opt=no-new-privileges:true",
+    "--pids-limit=512",
+    "--memory=4g"
+  ],
+
+  // Only the repo is mounted. No Docker socket, no home dir, no SSH agent forwarding.
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/ziggy,type=bind",
+  "workspaceFolder": "/workspaces/ziggy",
+
+  "forwardPorts": [5173],
+  "portsAttributes": { "5173": { "label": "app", "onAutoForward": "notify" } },
+
+  // npm ci with lifecycle scripts disabled (also enforced by .npmrc).
+  "postCreateCommand": "npm ci --ignore-scripts || true",
+
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode", "vitest.explorer"],
+      "settings": { "telemetry.telemetryLevel": "off" }
+    },
+    "codespaces": { "openFiles": ["docs/PLAN.md"] }
+  }
+}

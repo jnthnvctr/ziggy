@@ -1,18 +1,24 @@
 # Ziggy
 
-A free, open-source K–5 math diagnostic: short, timed, auto-generated tests that measure accuracy *and* fluency, and a map that makes kids want to climb to the next rung.
+A free, open-source K–5 math diagnostic: short, timed, auto-generated tests that measure accuracy _and_ fluency, and a map that makes kids want to climb to the next rung.
+
+**Live:** https://jnthnvctr.github.io/ziggy/
 
 - **Plan:** [docs/PLAN.md](docs/PLAN.md)
 - **Privacy:** we collect nothing. No accounts, no analytics, no server — progress stays in the browser.
-- **Developing:** open in GitHub Codespaces or the dev container. Don't install dependencies on your own machine. See [SECURITY.md](SECURITY.md).
+- **Contributing:** [CONTRIBUTING.md](CONTRIBUTING.md). Develop in GitHub Codespaces or the dev container, never directly on your own machine ([SECURITY.md](SECURITY.md)).
 
-## Setting up the project board (one time)
+## Quick start (inside Codespaces or the dev container)
 
 ```bash
-gh auth login
-gh auth refresh -s project            # lets gh create a Projects board
-DRY_RUN=1 scripts/bootstrap-github.sh OWNER/ziggy   # preview
-scripts/bootstrap-github.sh OWNER/ziggy             # create labels, milestones, issues, board
+npm run dev     # http://localhost:5173/ziggy/
+npm test
 ```
 
-The backlog lives in [`scripts/backlog.sh`](scripts/backlog.sh); edit it before running if you want to change anything. Re-running is safe — existing issues are skipped.
+## Project board
+
+Issues and milestones were created from [`scripts/backlog.sh`](scripts/backlog.sh) by [`scripts/bootstrap-github.sh`](scripts/bootstrap-github.sh). Re-running it is safe; existing issues are skipped.
+
+## License
+
+Code: MIT. Curriculum, art and sound: CC BY 4.0. See [LICENSE](LICENSE).
