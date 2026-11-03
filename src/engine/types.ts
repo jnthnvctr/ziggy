@@ -34,6 +34,21 @@ export type Block =
   | { kind: 'twoGroups'; left: number; right: number; icon: string; seed: number }
   | { kind: 'tenFrame'; filled: number[] } // one entry per frame, 0-10 dots each
   | { kind: 'baseTen'; hundreds: number; tens: number; ones: number }
+  | { kind: 'groups'; groups: number; each: number; icon: string } // 3 groups of 4
+  | { kind: 'array'; rows: number; cols: number; icon: string }
+  /** A shape split into `parts` equal parts with `shaded` shaded; `wholes` > 1 draws several. */
+  | {
+      kind: 'fractionModel';
+      shape: 'bar' | 'circle';
+      parts: number;
+      shaded: number;
+      wholes?: number;
+    }
+  /**
+   * A number line from `min` to `max` (whole numbers), each unit split into
+   * `partsPerUnit`; `point` marks a position counted in parts from `min` (null = none).
+   */
+  | { kind: 'numberLine'; min: number; max: number; partsPerUnit: number; point: number | null }
   | { kind: 'story'; text: string }
   | { kind: 'listen'; text: string } // a play-sound button; text is spoken, not shown
   | { kind: 'text'; text: string };
